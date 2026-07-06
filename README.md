@@ -27,7 +27,7 @@ Personal portfolio website bertema **Arlecchino** (Genshin Impact), dibangun ful
 ## 📁 Struktur Project
 
 ```
-Portfolio-Web-Columbina/
+Portfolio-Web-Arlecchino/
 ├── img/            # Aset gambar
 ├── index.html      # Halaman utama
 ├── style.css       # Semua styling
